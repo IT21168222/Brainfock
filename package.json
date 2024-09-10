@@ -79,7 +79,7 @@
     "fela-plugin-validator": "^4.1.0",
     "fela-preset-web": "^4.1.0",
     "file-loader": "^0.10.0",
-    "flow-bin": "^0.37.0",
+    "flow-bin": "^0.244.0",
     "gravatar": "^1.6.0",
     "gulp": "^3.9.0",
     "gulp-bg": "^0.0.8",
