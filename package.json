@@ -136,7 +136,7 @@
     "redux-observable": "^0.13.0",
     "redux-persist": "^4.0.1",
     "redux-promise-middleware": "^4.2.0",
-    "regenerator": "^0.9.5",
+    "regenerator": "^0.14.11",
     "regenerator-runtime": "^0.10.0",
     "require-dir": "^0.3.0",
     "run-sequence": "^1.0.2",
